@@ -91,6 +91,6 @@ Steps to Access the System
 * Open your web browser and navigate to Ubidots Sign-In.
 2. Log In
 * Enter the following credentials:
-* Username: test_003xxr
-* Password: mse991994
+* Username: -------
+* Password: ------
 * Click on the "Sign In" button.
